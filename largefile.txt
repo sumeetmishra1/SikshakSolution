@@ -1,0 +1,8 @@
+INFO: Application started
+INFO: Connected to database
+ERROR: Failed to fetch user data
+INFO: User logged in
+ERROR: Timeout while connecting to API
+INFO: Request completed
+ERROR: Invalid user input
+INFO: Process finished
